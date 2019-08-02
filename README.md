@@ -1,5 +1,7 @@
 Injector Instructions:
 <br/>
+// Note "Ari.dll" must be in the same directory as notepad.exe
+<br/>
   -Open Counter Strike to menu
   <br/>
   -Double click notepad.exe
