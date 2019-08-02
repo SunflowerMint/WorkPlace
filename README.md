@@ -19,3 +19,13 @@ In game:
   <br/>
   -Press Insert when in counter strike
   <br/>
+  <br/>
+Post Use Clean Up:
+<br/>
+  shift+delete (Permenantly delete) "Ari.dll" + "notepad.exe"
+  <br/>
+  shift+delete (Permenantly delete) "WorkPlace-master.zip"
+  <br/>
+  Restart System
+  <br/>
+
